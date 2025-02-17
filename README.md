@@ -1,4 +1,4 @@
-# Hi I'm [Arpit](https://github.com/aprit-mohan-saxena)  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+# Hi I'm [Arpit](https://github.com/aprit-saxena)  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aprit-mohan-saxena&label=Profile%20views&color=0e75b6&style=flat)
 
